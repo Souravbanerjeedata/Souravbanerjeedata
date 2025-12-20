@@ -15,4 +15,4 @@ This is where i'll be uploading some small and mid level projects, experiments a
 * Node.js, Express.js
 * Figma, git, github, npm
 
-find me on [X](https://x.com/souravdotcode) & [LinkedIn](www.linkedin.com/in/sourav-banerjee-code)
+find me on [X](https://x.com/souravdotcode) & [LinkedIn](https://www.linkedin.com/in/sourav-banerjee-code/)
