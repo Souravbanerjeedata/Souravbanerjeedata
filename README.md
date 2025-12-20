@@ -16,4 +16,5 @@ This is where i'll be uploading some small and mid level projects, experiments a
 * Figma, git, github, npm
 
 find me on X➡ [click here](https://x.com/souravdotcode)
+
 find me on LinkedIn➡ [click here](www.linkedin.com/in/sourav-banerjee-code)
