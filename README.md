@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Sourav, a software engineer based in India.
+I'm Sourav, a full stack developer in India.
 
-I mostly work on frontend stuff - React, TypeScript, Tailwind, Redux.js, React Native and bit of animation with the help of GSAP & three.js. I also know a bit Node.js & Express.js and currently working to improve those skills.
+I am currently working on creating comprehensive, scalable full stack projects for which i use MERN stack.
 - 🔭 I’m currently working on **MERN Stack** projects.
 - 👯 I’m looking for an **Internship or full-time Job**.
 - 📫 Reach out to me: **sourav.banerjeejobs@gmail.com**
@@ -55,6 +55,7 @@ I mostly work on frontend stuff - React, TypeScript, Tailwind, Redux.js, React N
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-banerjee-code/)
+[![X](https://img.shields.io/badge/X-%230077B5.svg?logo=x&logoColor=white)](https://x.com/souravdotcode)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sourav.banerjeejobs@gmail.com) 
 
 
