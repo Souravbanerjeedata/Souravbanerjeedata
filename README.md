@@ -1,16 +1,10 @@
 <h1 align="center">Hi, I'm Sourav 👋</h1>
 <h3 align="center">| Full Stack Developer | Software Developer |</h3>
-<img align="right" alt="coding image" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 I am currently working on creating comprehensive, scalable full stack projects.
 - 🔭 I’m working on **MERN Stack** projects.
 - 👯 I’m looking for an **Internship or full-time Job**.
 - 📫 Reach out to me: **sourav.banerjeejobs@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sourav-banerjee-code/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav-banerjee-code" height="30" width="40" /></a>
-</p>
 
 ##⚒️ Tech stack (as of now):
   <div align="left">
@@ -34,7 +28,7 @@ I am currently working on creating comprehensive, scalable full stack projects.
   </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-banerjee-code/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-banerjee-code/)
 [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/souravdotcode)
 
 
