@@ -12,7 +12,7 @@ I am currently working on creating comprehensive, scalable full stack projects.
 <a href="https://www.linkedin.com/in/sourav-banerjee-code/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav-banerjee-code" height="30" width="40" /></a>
 </p>
 
-- **Languages**:  
+- **⚒️ Tech stack (as of now) - **:  
   <div align="left">
     <img src="https://img.shields.io/badge/Javascript-017316?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/Typescript-007396?style=for-the-badge&logo=typescript&logoColor=white" />
