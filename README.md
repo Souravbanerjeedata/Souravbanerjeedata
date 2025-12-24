@@ -1,6 +1,6 @@
-## Hi there 👋
-
-I'm Sourav, a full stack developer in India.
+<h1 align="center">Hi, I'm Sourav 👋</h1>
+<h3 align="center">| Full Stack Developer | Software Developer |</h3>
+<img align="right" alt="coding image" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 I am currently working on creating comprehensive, scalable full stack projects for which i use MERN stack.
 - 🔭 I’m currently working on **MERN Stack** projects.
@@ -26,7 +26,7 @@ I am currently working on creating comprehensive, scalable full stack projects f
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />  
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-0c0c0c?style=for-the-badge&logo=next&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
@@ -36,9 +36,9 @@ I am currently working on creating comprehensive, scalable full stack projects f
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />  
     <img src="https://img.shields.io/badge/SQL-47A248?style=for-the-badge&logo=sql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Graphql-47A248?style=for-the-badge&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Deno.js-47A248?style=for-the-badge&logo=deno&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-001e2b?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Graphql-f5009b?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Deno.js-ffffff?style=for-the-badge&logo=deno&logoColor=white" />
   </div>
   
 - **Other Tools**:  
@@ -55,12 +55,6 @@ I am currently working on creating comprehensive, scalable full stack projects f
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-banerjee-code/)
-[![X](https://img.shields.io/badge/X-%230077B5.svg?logo=x&logoColor=white)](https://x.com/souravdotcode)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sourav.banerjeejobs@gmail.com) 
-
-
----
-
-
+[![X](https://img.shields.io/badge/-%230077B5.svg?logo=x&logoColor=white)](https://x.com/souravdotcode)
 
 
