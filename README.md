@@ -26,7 +26,7 @@ I am currently working on creating comprehensive, scalable full stack projects f
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />  
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-0c0c0c?style=for-the-badge&logo=next&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
@@ -34,11 +34,11 @@ I am currently working on creating comprehensive, scalable full stack projects f
 - **Backend Development**:  
   <div align="left">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />  
-    <img src="https://img.shields.io/badge/SQL-47A248?style=for-the-badge&logo=sql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-001e2b?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Graphql-f5009b?style=for-the-badge&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Deno.js-ffffff?style=for-the-badge&logo=deno&logoColor=white" />
+    <img src="https://img.shields.io/badge/express.js-292929?style=for-the-badge&logo=express&logoColor=white" />  
+    <img src="https://img.shields.io/badge/SQL-6DAFB1?style=for-the-badge&logo=sql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-5dab55?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Graphql-e63cad?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Deno.js-000000?style=for-the-badge&logo=deno&logoColor=white" />
   </div>
   
 - **Other Tools**:  
