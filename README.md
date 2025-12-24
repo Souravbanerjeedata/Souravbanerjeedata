@@ -35,7 +35,7 @@ I am currently working on creating comprehensive, scalable full stack projects f
   <div align="left">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  
     <img src="https://img.shields.io/badge/express.js-292929?style=for-the-badge&logo=express&logoColor=white" />  
-    <img src="https://img.shields.io/badge/SQL-6DAFB1?style=for-the-badge&logo=sql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-497ca3?&logo=MySQL&logoColor=black" />
     <img src="https://img.shields.io/badge/MongoDB-5dab55?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Graphql-e63cad?style=for-the-badge&logo=graphql&logoColor=white" />
     <img src="https://img.shields.io/badge/Deno.js-000000?style=for-the-badge&logo=deno&logoColor=white" />
@@ -55,6 +55,6 @@ I am currently working on creating comprehensive, scalable full stack projects f
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-banerjee-code/)
-[![X](https://img.shields.io/badge/-%230077B5.svg?logo=x&logoColor=white)](https://x.com/souravdotcode)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/souravdotcode)
 
 
