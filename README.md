@@ -12,15 +12,11 @@ I am currently working on creating comprehensive, scalable full stack projects.
 <a href="https://www.linkedin.com/in/sourav-banerjee-code/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav-banerjee-code" height="30" width="40" /></a>
 </p>
 
-- **⚒️ Tech stack (as of now) - **:  
+##⚒️ Tech stack (as of now):
   <div align="left">
     <img src="https://img.shields.io/badge/Javascript-017316?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/Typescript-007396?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </div>
-
-- **Frontend Development**:  
-  <div align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
@@ -29,28 +25,12 @@ I am currently working on creating comprehensive, scalable full stack projects.
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </div>
-
-- **Backend Development**:  
-  <div align="left">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  
     <img src="https://img.shields.io/badge/express.js-292929?style=for-the-badge&logo=express&logoColor=white" />  
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-5dab55?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Graphql-e63cad?style=for-the-badge&logo=graphql&logoColor=white" />
     <img src="https://img.shields.io/badge/Deno.js-000000?style=for-the-badge&logo=deno&logoColor=white" />
-  </div>
-  
-- **Other Tools**:  
-  <div align="left">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
-    <img src="https://img.shields.io/badge/GitHub-2C3E50?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </div>
-
-- **IDEs**:  
-  <div align="left">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
   </div>
 
 ## 🌐 Socials:
