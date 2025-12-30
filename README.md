@@ -2,7 +2,7 @@
 <h3 align="center">| Full Stack Developer | Software Developer |</h3>
 
 I am currently working on creating comprehensive, scalable full stack projects.
-- 🔭 I’m working on **MERN Stack** projects.
+- 🔭 I’m working on **MERN Stack** & **PERN Stack** projects.
 - 👯 I’m looking for an **Internship or full-time Job**.
 - 📫 Reach out to me: **sourav.banerjeejobs@gmail.com**
 
