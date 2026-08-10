@@ -1,40 +1,100 @@
-<h1 align="center">👋Hi there, I'm Sourav</h1>
-<h3 align="center">| Full Stack Developer | Software Developer |</h3>
+<h1 align="center">Hi, I'm Sourav Banerjee 👋</h1>
+<h3 align="center">Self-taught Full Stack & React Native Developer</h3>
 
-I am currently working on creating comprehensive, scalable full stack projects.
-- 🔭 I’m working on **MERN Stack** & **PERN Stack** projects.
-- 👯 I’m looking for an **Internship or full-time Job**.
-- 📫 Reach out to me: **sourav.banerjeejobs@gmail.com**
+<p align="center">
+  Building web & mobile applications • Open to Internships & Junior Roles
+</p>
 
-## ⚒️ Tech stack:
-  <div align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
-    <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white" />
-    <img src="https://img.shields.io/badge/sass-cf6b9d?style=for-the-badge&logo=sass&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Typescript-087fcf?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" /> 
-    <img src="https://img.shields.io/badge/Redux-594487?style=for-the-badge&logo=redux&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  
-    <img src="https://img.shields.io/badge/express.js-292929?style=for-the-badge&logo=express&logoColor=white" />  
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/postgresql-2f6791?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/jquery-white?style=for-the-badge&logo=jquery&logoColor=black" />
-    <img src="https://img.shields.io/badge/MongoDB-5dab55?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Graphql-e63cad?style=for-the-badge&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Deno.js-000000?style=for-the-badge&logo=deno&logoColor=white" />
-    <img src="https://img.shields.io/badge/git-f25430?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/github-1e2126?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/npm-cc3d3d?logo=npm&logoColor=white&style=for-the-badge" />
-  </div>
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/sourav-banerjee-code/)
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/souravdotcode)
+### 👨‍💻 About Me
 
+- 🔭 Currently building **scalable full-stack** and **React Native** projects
+- 🌱 Deepening knowledge in **MERN / PERN** stack and modern frontend architecture
+- 📚 Learning **Data Structures & Algorithms** and solving problems on LeetCode
+- 💼 Transitioning from analytical roles at TCS into software development
+- 💬 Ask me about **React, React Native, TypeScript, JavaScript, or mobile development**
+- 📫 Reach me at: **sourav.banerjeejobs@gmail.com**
+- ⚡ Fun fact: I learn best by building and shipping real projects
 
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+#### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+#### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🚀 Current Focus
+
+- Building production-ready **React Native** and **Full Stack** applications
+- Strengthening **Data Structures & Algorithms** fundamentals
+- Solving problems regularly on **LeetCode**
+- Improving system design and clean code practices
+- Contributing to open source when possible
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sourav-banerjee-code/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/souravdotcode" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:sourav.banerjeejobs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Souravbanerjeedata&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souravbanerjeedata&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravbanerjeedata&layout=compact&theme=tokyonight&hide_border=true" height="140" />
+</p>
+
+---
+
+<p align="center">
+  <em>Thanks for visiting! Feel free to check out my repositories and connect.</em>
+</p>
