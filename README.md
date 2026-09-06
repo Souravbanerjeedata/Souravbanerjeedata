@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sourav Banerjee 👋</h1>
-<h3 align="center">Self-taught Full Stack & React Native Developer</h3>
+<h3 align="center">Self-taught Full Stack Developer</h3>
 
 <p align="center">
   Building web & mobile applications • Open to Internships & Junior Roles
@@ -9,11 +9,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building **scalable full-stack** and **React Native** projects
+- 🔭 Currently building **scalable full-stack** projects
 - 🌱 Deepening knowledge in **MERN / PERN** stack and modern frontend architecture
 - 📚 Learning **Data Structures & Algorithms** and solving problems on LeetCode
 - 💼 Transitioning from analytical roles at TCS into software development
-- 💬 Ask me about **React, React Native, TypeScript, JavaScript, or mobile development**
 - 📫 Reach me at: **[My Portfolio](https://sourav-dev-portfolio.vercel.app/)**
 - ⚡ Fun fact: I learn best by building and shipping real projects
 
@@ -58,7 +57,7 @@
 
 ### 🚀 Current Focus
 
-- Building production-ready **React Native** and **Full Stack** applications
+- Building production-ready **Full Stack** applications
 - Strengthening **Data Structures & Algorithms** fundamentals
 - Solving problems regularly on **LeetCode**
 - Improving system design and clean code practices
