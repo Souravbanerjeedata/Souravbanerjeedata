@@ -14,7 +14,7 @@
 - 📚 Learning **Data Structures & Algorithms** and solving problems on LeetCode
 - 💼 Transitioning from analytical roles at TCS into software development
 - 💬 Ask me about **React, React Native, TypeScript, JavaScript, or mobile development**
-- 📫 Reach me at: **sourav.banerjeejobs@gmail.com**
+- 📫 Reach me at: **[My Portfolio](https://sourav-dev-portfolio.vercel.app/)**
 - ⚡ Fun fact: I learn best by building and shipping real projects
 
 ---
